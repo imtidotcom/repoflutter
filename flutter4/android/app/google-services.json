@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007846491548",
+    "project_id": "flutter4-72442",
+    "storage_bucket": "flutter4-72442.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007846491548:android:6c3b73ec7ed7302d53b459",
+        "android_client_info": {
+          "package_name": "com.my.cool4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4J0TLVimLeGjH1BsR8uH1udsBaCrs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
